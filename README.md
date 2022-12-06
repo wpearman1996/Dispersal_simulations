@@ -1,13 +1,3 @@
----
-title: "Pearman *et al.* - migration simulation"
-date: 2022-11-08
-output:
-  html_document:
-    keep_md: yes
-  pdf_document:
-    latex_engine: xelatex
-
----
 
 Using the `ecolottery` package to simulate a community migrating from a 'Source' to a 'Sink' via a 'Dispersal' environment. 
 
